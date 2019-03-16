@@ -169,10 +169,6 @@ nrf52832-pac    = "0.6.0"
 
 ---
 
-## Type Safe Low Level APIs
-
----
-
 ## Blinking a light
 
 ---
