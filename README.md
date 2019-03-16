@@ -1,6 +1,6 @@
-# Life Before Main
+# Embedded Rust in Fifteen Minutes
 
-Rust and Tell, February 26th 2019
+emBO++ Conference, March 16th 2019
 
 * requires pandoc and [just]
 
@@ -11,7 +11,7 @@ Rust and Tell, February 26th 2019
 ``` text
 # pacman -S pandoc
 $ cargo install just
- 
+
 just build
 just watch
 ```
